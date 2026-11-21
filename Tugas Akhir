@@ -1,0 +1,40 @@
+# RASPORTSTATION
+
+**Program Kasir Toko Perlengkapan Olahraga Berbasis C++**
+
+## Identitas Pengembang
+- **Nama:** Rashya Andika Putra
+- **Kelas:** X RPL B
+- **Nomor Absen:** 25
+- **Mata Pelajaran:** DDPPLG
+- **Jenis Proyek:** Tugas Akhir Semester 1
+
+RasPortStation merupakan program kasir sederhana berbasis bahasa pemrograman C++ yang dirancang untuk membantu proses transaksi penjualan perlengkapan olahraga. Program ini memungkinkan pengguna memilih barang, menentukan jumlah pembelian, menghitung total belanja, melakukan pembayaran, serta mendapatkan struk transaksi secara otomatis.
+
+## Fitur Utama
+1. **Menu Kategori Produk:** Sepatu olahraga, pakaian olahraga, dan atribut olahraga.
+2. **Pemilihan Produk:** Pengguna dapat memilih produk berdasarkan nomor menu.
+3. **Keranjang Belanja:** Menyimpan nama barang, jumlah pembelian, dan subtotal menggunakan array.
+4. **Penambahan Barang:** Pengguna dapat menambahkan produk ke dalam satu transaksi.
+5. **Perhitungan Otomatis:** Menghitung subtotal dan total keseluruhan belanja.
+6. **Sistem Pembayaran:** Memeriksa kecukupan uang pembayaran dan menghitung kembalian.
+7. **Pembuatan Struk:** Menyimpan rincian transaksi ke file TXT.
+8. **Cetak Struk:** Mengirim perintah pencetakan melalui Notepad.
+
+## Kategori dan Produk
+### 1. Sepatu Olahraga
+### 2. Pakaian Olahraga
+### 3. Atribut Olahraga
+
+## Cara Menjalankan Program
+1. Pastikan komputer memiliki compiler C++ 
+2. Buka file program RasPortStation.
+3. Compile dan jalankan program.
+4. Pilih kategori produk yang tersedia.
+5. Pilih barang dan masukkan jumlah pembelian.
+6. Tambahkan barang lain jika diperlukan.
+7. Masukkan uang pembayaran.
+8. Program akan membuat file struk transaksi bernama `struk_rasport0.txt`.
+
+## Tujuan Pembuatan
+Proyek ini dibuat sebagai penerapan materi pemrograman C++ yang telah dipelajari selama semester 1. Melalui proyek ini, diharapkan dapat memahami penggunaan percabangan, perulangan, array, fungsi input-output, serta pengolahan file dalam pembuatan program kasir sederhana.
